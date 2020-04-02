@@ -6,6 +6,10 @@
 <description>Sync screens, hotspots, and feedback directly from Sketch to Tiled to create interactive microapps without code. Speed up your process by designing and prototyping in Sketch, then sync with Tiled to add rich media, videos and interactive elements to bring your designs to life. In Tiled, deliver your microapps to increase brand engagement and gain activity analytics. Learn more about the plugin or request a free Tiled account at https://tiled.co/design-sketch.</description>
 <language>en</language>
 <item>
+  <title>v1.0.1</title>
+  <enclosure url="https://github.com/TiledCo/tiled-sketch-plugin/releases/download/1.0.1/Tiled.sketchplugin-1.0.1.zip" sparkle:version="1.0.1"/>
+</item>
+<item>
   <title>v1.0.0</title>
   <enclosure url="https://github.com/TiledCo/tiled-sketch-plugin/releases/download/1.0.0/Tiled.sketchplugin-1.0.0.zip" sparkle:version="1.0.0"/>
 </item>

@@ -8,6 +8,6 @@ Learn more about the plugin or request a free Tiled account at [Tiled](https://t
 
 <h2>Installation</h2>
 
-- Download the [latest release](https://github.com/TiledCo/tiled-sketch-plugin/releases/download/2.1.0/Tiled.sketchplugin-2.1.0.zip)
+- Download the [latest release](https://github.com/TiledCo/tiled-sketch-plugin/releases/download/2.2.0/Tiled.sketchplugin-2.2.0.zip)
 - Un-zip
 - Double-click on Tiled.sketchplugin
